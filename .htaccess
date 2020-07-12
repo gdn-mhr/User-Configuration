@@ -1,0 +1,6 @@
+AuthGroupFile /dev/null
+AuthType Basic
+AuthUserFile ./.htpasswd
+AuthName "User-Configuration"
+require valid-user
+ErrorDocument 401 "Unauthorized Access"
