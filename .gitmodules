@@ -1,0 +1,6 @@
+[submodule "includes/x-editable"]
+	path = includes/x-editable
+	url = https://github.com/Talv/x-editable.git
+[submodule "includes/bootstrap-table"]
+	path = includes/bootstrap-table
+	url = https://github.com/wenzhixin/bootstrap-table.git
